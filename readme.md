@@ -1,8 +1,7 @@
 ```
 Setting up
 npm i
-npm run dev
+npm run offline
 
-go to http://localhost:4000 
-http://localhost:4000/pdf
+go to http://localhost:3000/pdf
 ```
