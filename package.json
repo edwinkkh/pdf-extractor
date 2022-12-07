@@ -21,7 +21,7 @@
     "nodemon": "^2.0.4",
     "path": "^0.12.7",
     "pdf-parse": "^1.1.1",
-    "serverless": "^1.74.1",
+    "serverless": "^3.25.1",
     "serverless-http": "^2.5.0"
   },
   "devDependencies": {
